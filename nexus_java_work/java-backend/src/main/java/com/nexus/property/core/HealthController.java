@@ -1,0 +1,1 @@
+package com.nexus.property.core;import org.springframework.web.bind.annotation.*;import java.util.*;@RestController public class HealthController{@GetMapping("/api/health")public Map<String,Object>h(){return Map.of("status","UP","system","Nexus Property Web-based Property Sales System","timestamp",java.time.Instant.now().toString());}}

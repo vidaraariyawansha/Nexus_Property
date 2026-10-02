@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Property - Web-based Property Sales System",
+  "description": "Comprehensive, production-ready web-based property sales platform with multi-criteria property search, listing & media management, role-based workflows (Customer, Owner, Agent, Admin), appointment scheduling, customer self-service portal, inquiries & complaints management, and AI property advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
